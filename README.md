@@ -39,8 +39,8 @@ Driven by curiosity, I aim to combine theoretical knowledge with practical innov
 
 ## 📫 How to reach me
 - **Email:** krish.qcai@gmail.com  
-- **LinkedIn:** [Your LinkedIn](#https://www.linkedin.com/in/krish-sharma-a78a99226/)  
-- **Twitter/X:** [@signin_as_krish](#https://x.com/signin_as_krish)
+- **LinkedIn:** [Krish Sharma](https://www.linkedin.com/in/krish-sharma-a78a99226/)  
+- **Twitter/X:** [@signin_as_krish](https://x.com/signin_as_krish)
 
 ---
 
