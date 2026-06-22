@@ -36,25 +36,23 @@ I am a Computer Science student dedicated to building highly secure, performant,
 
 ---
 
-## 📁 Featured Projects
+## ✍️ Digital Garden & Blog
 
-### 📐 [ArchViz](#)
-A professional-grade canvas web application built for architecting, mapping, and simulating distributed cloud systems in real time. 
-
-### 🔒 [KAIRO](#)
-A private messaging platform emphasizing end-to-end encryption and highly intentional communication. Built with secure device synchronization, mutual chat-wiping, and zero-retention logs. 
-
-### 🖥️ [PortfolioOS](#)
-A creative personal portfolio designed completely within a functional web-based desktop operating system interface, featuring custom window management and terminal emulation.
+### 🌐 [The Open Hypothesis](https://theopenhypothesis.netlify.app/)
+This is my personal space on the web where I document my technical learning, deep-dives into software architecture, project progress, and active research notes. 
 
 ---
 
-## 📈 GitHub Metrics
+## 📁 Featured Projects
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117" alt="Krish's GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=dark&hide_border=true&background=0D1117" alt="Krish's Streak Stats" width="48%" />
-</p>
+### 📐 [ArchViz](https://archviz-studio.vercel.app/)
+A professional-grade canvas web application built for architecting, mapping, and simulating distributed cloud systems in real time. 
+
+### 🔒 [KAIRO](https://kairo-chat.netlify.netlify.app/)
+A private messaging platform emphasizing end-to-end encryption and highly intentional communication. Built with secure device synchronization, mutual chat-wiping, and zero-retention logs. 
+
+### 🖥️ [PortfolioOS](http://krishportfolio-os.netlify.app/)
+A creative personal portfolio designed completely within a functional web-based desktop operating system interface, featuring custom window management and terminal emulation.
 
 ---
 
