@@ -15,6 +15,7 @@ I am a Computer Science student dedicated to building highly secure, performant,
 * 🔭 **Current Focus:** Cloud-native architecture simulation and secure, intentional communication systems.
 * 🎨 **Design Philosophy:** Dark mode by default, glassmorphism, and clutter-free workflows.
 * ⚡ **Pulse:** Tracking deep tech breakthroughs, advanced AI research, and next-gen developer ecosystems.
+* 🛠️ **Execution:** Building only what is genuinely worth making.
 
 ---
 
