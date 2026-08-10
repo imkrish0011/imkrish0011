@@ -36,7 +36,6 @@ I am a Computer Science student dedicated to building highly secure, performant,
 ![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=white)
-![Java](https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![C](https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=white)
 
@@ -56,7 +55,6 @@ I am a Computer Science student dedicated to building highly secure, performant,
 
 ```
 [■] AI/ML System Integration
-[■] Prompt Engineering
 [■] Data Analysis
 [■] Distributed Systems Engineering
 ```
