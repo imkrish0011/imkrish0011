@@ -1,16 +1,10 @@
 <div align="center">
 
-```
-╔══════════════════════════════════════════════════════════╗
-║                                                            ║
-║   █▄▀ █▀█ █ █▀ █  █   █▀▀ █▀▀▄ █▀▀█ █▀█ █▀▄▀█ █▀▀▄         ║
-║   █ █ █▀▄ █ ▄█ █▀▀█   ▀▀█ █▀▀█ █▄▄█ █▄▀ █ ▀ █ █▀▀▄         ║
-║   ▀ ▀ ▀ ▀ ▀ ▀▀ ▀  ▀   ▀▀▀ ▀  ▀ ▀  ▀ ▀ ▀ ▀   ▀ ▀  ▀         ║
-║                                                            ║
-╚══════════════════════════════════════════════════════════╝
-```
+<img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=160&section=header" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2800&pause=900&color=FFFFFF&background=000000&center=true&vCenter=true&width=620&lines=Building+at+the+intersection+of+AI%2FML...;Distributed+Systems...;and+Minimal+Design." alt="typing-svg" />
+# KRISH SHARMA
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=2600&pause=900&color=FFFFFF&background=00000000&center=true&vCenter=true&width=600&lines=Building+at+the+intersection+of...;AI%2FML+%C3%97+Distributed+Systems...;%C3%97+Minimal+Design." alt="typing-svg" />
 
 <p>
   <a href="https://linkedin.com/in/krish-sharma-a78a99226/"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
@@ -20,24 +14,22 @@
 
 </div>
 
-<br>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=3&section=header" width="100%"/>
 
-`▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓`
-
-### `[ 01 ]` ABOUT
+### 01 — ABOUT
 
 I am a Computer Science student dedicated to building highly secure, performant, and visually polished digital architecture. My core technical interests span **Artificial General Intelligence (AGI)** and engineering seamless **Full-Stack Applications** with strict, minimal UI/UX aesthetics.
 
 ```
-> current_focus   :: cloud-native architecture simulation, secure intentional comms
+> current_focus     :: cloud-native architecture simulation, secure intentional comms
 > design_philosophy :: dark mode default / glassmorphism / clutter-free
-> pulse           :: deep tech, advanced AI research, next-gen dev ecosystems
-> execution       :: build only what is genuinely worth making
+> pulse             :: deep tech, advanced AI research, next-gen dev ecosystems
+> execution         :: build only what is genuinely worth making
 ```
 
-`▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓`
+<img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=3&section=header" width="100%"/>
 
-### `[ 02 ]` TECH TOOLBOX
+### 02 — TECH TOOLBOX
 
 **Languages & Core**
 
@@ -58,17 +50,17 @@ I am a Computer Science student dedicated to building highly secure, performant,
 [■] Distributed Systems Engineering
 ```
 
-`▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓`
+<img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=3&section=header" width="100%"/>
 
-### `[ 03 ]` DIGITAL GARDEN & BLOG
+### 03 — DIGITAL GARDEN & BLOG
 
 **[The Open Hypothesis →](https://theopenhypothesis.netlify.app/)**
 
 This is my personal space on the web where I document my technical learning, deep-dives into software architecture, project progress, and active research notes.
 
-`▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓`
+<img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=3&section=header" width="100%"/>
 
-### `[ 04 ]` FEATURED PROJECTS
+### 04 — FEATURED PROJECTS
 
 **[ArchViz →](https://archviz-studio.vercel.app/)**
 A professional-grade canvas web application built for architecting, mapping, and simulating distributed cloud systems in real time.
@@ -79,9 +71,9 @@ A private messaging platform emphasizing end-to-end encryption and highly intent
 **[PortfolioOS →](http://krishportfolio-os.netlify.app/)**
 A creative personal portfolio designed completely within a functional web-based desktop operating system interface, featuring custom window management and terminal emulation.
 
-`▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓`
+<img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=3&section=header" width="100%"/>
 
-### `[ 05 ]` LET'S CONNECT
+### 05 — LET'S CONNECT
 
 > "The best way to predict the future is to build it."
 
@@ -93,6 +85,6 @@ twitter/x :: @signin_as_krish
 
 <div align="center">
 
-`// EOF`
+<img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=120&section=footer" width="100%"/>
 
 </div>
