@@ -85,10 +85,10 @@ I am a Computer Science student building secure, performant, visually minimal so
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=imkrish0011&show_icons=true&theme=dark&hide_border=true&bg_color=00000000&title_color=FFFFFF&icon_color=FFFFFF&text_color=CCCCCC" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=imkrish0011&theme=dark&hide_border=true&background=00000000&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=dark&hide_border=true&bg_color=00000000&title_color=FFFFFF&icon_color=FFFFFF&text_color=CCCCCC" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=dark&hide_border=true&background=00000000&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF" height="165"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imkrish0011&layout=compact&theme=dark&hide_border=true&bg_color=00000000&title_color=FFFFFF&text_color=CCCCCC" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=dark&hide_border=true&bg_color=00000000&title_color=FFFFFF&text_color=CCCCCC" height="165"/>
 
 </div>
 
@@ -98,7 +98,7 @@ I am a Computer Science student building secure, performant, visually minimal so
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=imkrish0011&theme=react-dark&hide_border=true&bg_color=00000000&color=FFFFFF&line=FFFFFF&point=FFFFFF" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=react-dark&hide_border=true&bg_color=00000000&color=FFFFFF&line=FFFFFF&point=FFFFFF" width="100%"/>
 
 </div>
 
@@ -122,12 +122,6 @@ A private messaging platform emphasizing end-to-end encryption and intentional c
 
 **[PortfolioOS →](http://krishportfolio-os.netlify.app/)**
 A personal portfolio built entirely inside a functional web-based desktop OS interface — custom window management, terminal emulation.
-
-**MyOS** `IN PROGRESS`
-A real x86 32-bit operating system built from scratch on WSL2 — currently through the cross-compiler toolchain phase (i686-elf-gcc).
-
-**DECK** `IN PROGRESS`
-A local, self-hosted music player built from scratch with a custom UI.
 
 **ChronoHMG** `RESEARCH`
 University research paper proposing a memory-management framework for conversational AI — architecture, write-path design, and formal proofs for the underlying update/decay model.
