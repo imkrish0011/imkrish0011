@@ -98,7 +98,7 @@ I am a Computer Science student building secure, performant, visually minimal so
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=react-dark&hide_border=true&bg_color=00000000&color=FFFFFF&line=FFFFFF&point=FFFFFF" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=imkrish0011&theme=react-dark&hide_border=true&bg_color=00000000&color=FFFFFF&line=FFFFFF&point=FFFFFF" width="100%"/>
 
 </div>
 
