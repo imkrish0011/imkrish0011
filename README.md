@@ -4,7 +4,7 @@
 
 # KRISH SHARMA
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=2600&pause=900&color=FFFFFF&background=00000000&center=true&vCenter=true&width=600&lines=Building+at+the+intersection+of...;AI%2FML+%C3%97+Distributed+Systems...;%C3%97+Minimal+Design." alt="typing-svg" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=2600&pause=900&color=FFFFFF&background=00000000&center=true&vCenter=true&width=600&lines=Building+at+the+intersection+of...;AI%2FML+%C3%97+Systems+%C3%97+Cloud+Architecture...;%C3%97+Minimal+Design." alt="typing-svg" />
 
 <p>
   <a href="https://linkedin.com/in/krish-sharma-a78a99226/"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
@@ -18,12 +18,12 @@
 
 ### 01 — ABOUT
 
-I am a Computer Science student dedicated to building highly secure, performant, and visually polished digital architecture. My core technical interests span **Artificial General Intelligence (AGI)** and engineering seamless **Full-Stack Applications** with strict, minimal UI/UX aesthetics.
+I am a Computer Science student building secure, performant, visually minimal software — spanning full-stack product engineering, self-directed ML/AGI study, and low-level systems work.
 
 ```
-> current_focus     :: cloud-native architecture simulation, secure intentional comms
+> current_focus     :: cloud-native architecture simulation, OS internals, AI memory systems
 > design_philosophy :: dark mode default / glassmorphism / clutter-free
-> pulse             :: deep tech, advanced AI research, next-gen dev ecosystems
+> pulse             :: deep tech, applied AI research, systems programming
 > execution         :: build only what is genuinely worth making
 ```
 
@@ -51,11 +51,17 @@ I am a Computer Science student dedicated to building highly secure, performant,
 ![Node.js](https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-000000?style=for-the-badge&logo=firebase&logoColor=white)
 
+**Systems & Low-Level**
+
+![x86 Assembly](https://img.shields.io/badge/x86_Assembly-000000?style=for-the-badge)
+![OS Dev](https://img.shields.io/badge/OS_Development-000000?style=for-the-badge)
+![GCC Cross Compile](https://img.shields.io/badge/Cross--Compiler_Toolchains-000000?style=for-the-badge)
+
 **AI & Data**
 
 ```
 [■] AI/ML System Integration
-[■] Data Analysis
+[■] Applied ML — self-directed, first-principles roadmap
 [■] Distributed Systems Engineering
 ```
 
@@ -64,6 +70,7 @@ I am a Computer Science student dedicated to building highly secure, performant,
 ![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white)
+![WSL2](https://img.shields.io/badge/WSL2-000000?style=for-the-badge&logo=windows&logoColor=white)
 
 ```
 [■] Claude Code
@@ -72,28 +79,62 @@ I am a Computer Science student dedicated to building highly secure, performant,
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=3&section=header" width="100%"/>
 
-### 03 — DIGITAL GARDEN & BLOG
+### 03 — GITHUB STATS
+
+> Replace `YOUR_GITHUB_USERNAME` below with your actual GitHub handle — these widgets render live data pulled from that username.
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=dark&hide_border=true&bg_color=00000000&title_color=FFFFFF&icon_color=FFFFFF&text_color=CCCCCC" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=dark&hide_border=true&background=00000000&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF" height="165"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=dark&hide_border=true&bg_color=00000000&title_color=FFFFFF&text_color=CCCCCC" height="165"/>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=3&section=header" width="100%"/>
+
+### 04 — CONTRIBUTION GRAPH
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=react-dark&hide_border=true&bg_color=00000000&color=FFFFFF&line=FFFFFF&point=FFFFFF" width="100%"/>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=3&section=header" width="100%"/>
+
+### 05 — DIGITAL GARDEN & BLOG
 
 **[The Open Hypothesis →](https://theopenhypothesis.netlify.app/)**
 
-This is my personal space on the web where I document my technical learning, deep-dives into software architecture, project progress, and active research notes.
+Personal space on the web documenting technical learning, software architecture deep-dives, project progress, and active research notes.
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=3&section=header" width="100%"/>
 
-### 04 — FEATURED PROJECTS
+### 06 — FEATURED PROJECTS
 
-**[ArchViz →](https://archviz-studio.vercel.app/)**
-A professional-grade canvas web application built for architecting, mapping, and simulating distributed cloud systems in real time.
+**[ArchViz Studio →](https://archviz-studio.vercel.app/)**
+Full-stack cloud architecture design and simulation platform — a single canvas replacing the usual scatter of separate DevOps tools. Built with React, TypeScript, Node.js, Firebase, and Tailwind, with an AI Agent Canvas for drag-and-drop system design and Terraform export. Live in open beta.
 
 **[KAIRO →](https://kairo-chat.netlify.netlify.app/)**
-A private messaging platform emphasizing end-to-end encryption and highly intentional communication. Built with secure device synchronization, mutual chat-wiping, and zero-retention logs.
+A private messaging platform emphasizing end-to-end encryption and intentional communication. Secure device sync, mutual chat-wiping, zero-retention logs.
 
 **[PortfolioOS →](http://krishportfolio-os.netlify.app/)**
-A creative personal portfolio designed completely within a functional web-based desktop operating system interface, featuring custom window management and terminal emulation.
+A personal portfolio built entirely inside a functional web-based desktop OS interface — custom window management, terminal emulation.
+
+**MyOS** `IN PROGRESS`
+A real x86 32-bit operating system built from scratch on WSL2 — currently through the cross-compiler toolchain phase (i686-elf-gcc).
+
+**DECK** `IN PROGRESS`
+A local, self-hosted music player built from scratch with a custom UI.
+
+**ChronoHMG** `RESEARCH`
+University research paper proposing a memory-management framework for conversational AI — architecture, write-path design, and formal proofs for the underlying update/decay model.
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=3&section=header" width="100%"/>
 
-### 05 — LET'S CONNECT
+### 07 — LET'S CONNECT
 
 > "The best way to predict the future is to build it."
 
