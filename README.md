@@ -81,8 +81,6 @@ I am a Computer Science student building secure, performant, visually minimal so
 
 ### 03 — GITHUB STATS
 
-> Replace `YOUR_GITHUB_USERNAME` below with your actual GitHub handle — these widgets render live data pulled from that username.
-
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=imkrish0011&show_icons=true&theme=dark&hide_border=true&bg_color=00000000&title_color=FFFFFF&icon_color=FFFFFF&text_color=CCCCCC" height="165"/>
