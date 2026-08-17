@@ -51,12 +51,6 @@ I am a Computer Science student building secure, performant, visually minimal so
 ![Node.js](https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-000000?style=for-the-badge&logo=firebase&logoColor=white)
 
-**Systems & Low-Level**
-
-![x86 Assembly](https://img.shields.io/badge/x86_Assembly-000000?style=for-the-badge)
-![OS Dev](https://img.shields.io/badge/OS_Development-000000?style=for-the-badge)
-![GCC Cross Compile](https://img.shields.io/badge/Cross--Compiler_Toolchains-000000?style=for-the-badge)
-
 **AI & Data**
 
 ```
@@ -70,7 +64,6 @@ I am a Computer Science student building secure, performant, visually minimal so
 ![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white)
-![WSL2](https://img.shields.io/badge/WSL2-000000?style=for-the-badge&logo=windows&logoColor=white)
 
 ```
 [■] Claude Code
