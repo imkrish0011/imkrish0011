@@ -125,7 +125,7 @@ University research paper proposing a memory-management framework for conversati
 
 ```
 email     :: krish.qcai@gmail.com
-linkedin  :: linkedin.com/in/krish-sharma-a78a99226
+linkedin  :: linkedin.com/in/thekrish
 twitter/x :: @signin_as_krish
 ```
 
