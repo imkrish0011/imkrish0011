@@ -148,6 +148,22 @@ University research paper proposing a **memory-management framework for conversa
 
 <br/>
 
+<div align="center">
+
+<details>
+<summary><b>Looks quiet lately?</b></summary>
+
+<br/>
+
+> If you think I'm not doing anything, remember that I'm somewhere out there, trying to solve AGI.
+> **Keep it a secret.** 🤫
+
+</details>
+
+</div>
+
+<br/>
+
 ## 06 — DIGITAL GARDEN
 
 **[The Open Hypothesis →](https://theopenhypothesis.netlify.app/)**
