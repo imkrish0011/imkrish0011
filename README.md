@@ -11,7 +11,7 @@
 <br/>
 
 <p>
-  <a href="https://linkedin.com/in/krish-sharma-a78a99226/"><img src="https://img.shields.io/badge/LinkedIn-21262d?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://linkedin.com/in/thekrish"><img src="https://img.shields.io/badge/LinkedIn-21262d?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://x.com/signin_as_krish"><img src="https://img.shields.io/badge/X-21262d?style=for-the-badge&logo=x&logoColor=white" alt="X"></a>
   <a href="mailto:krish.qcai@gmail.com"><img src="https://img.shields.io/badge/Email-21262d?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
   <a href="https://theopenhypothesis.netlify.app/"><img src="https://img.shields.io/badge/The_Open_Hypothesis-21262d?style=for-the-badge&logo=rss&logoColor=white" alt="Blog"></a>
@@ -28,7 +28,6 @@ Computer Science student building **secure, performant, visually minimal softwar
 ```ts
 const krish = {
   role:    "Builder · Founder · CS Student",
-  focus:   ["Cloud-native architecture simulation", "OS internals", "AI memory systems"],
   design:  ["dark mode default", "glassmorphism", "clutter-free"],
   pulse:   ["deep tech", "applied AI research", "systems programming"],
   mantra:  "Build only what is genuinely worth making.",
@@ -37,28 +36,47 @@ const krish = {
 
 <br/>
 
-## 02 — FEATURED PROJECTS
+## 02 — FOCUS AREAS
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
-#### [ArchViz Studio →](https://archviz-studio.vercel.app/)
-![Status](https://img.shields.io/badge/status-live_open_beta-3fb950?style=flat-square&labelColor=21262d)
+![01](https://img.shields.io/badge/01-Cloud_Architecture-21262d?style=for-the-badge)
 
-Full-stack cloud architecture design and simulation platform — **one canvas replacing the usual scatter of separate DevOps tools.** AI Agent Canvas for drag-and-drop system design, with Terraform export.
-
-![React](https://img.shields.io/badge/React-21262d?style=flat-square&logo=react&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-21262d?style=flat-square&logo=typescript&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-21262d?style=flat-square&logo=nodedotjs&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-21262d?style=flat-square&logo=firebase&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-21262d?style=flat-square&logo=tailwindcss&logoColor=white)
+Designing and simulating cloud-native, distributed systems.
 
 </td>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
+
+![02](https://img.shields.io/badge/02-OS_Internals-21262d?style=for-the-badge)
+
+Low-level systems work — understanding how software really runs on hardware.
+
+</td>
+<td width="33%" valign="top">
+
+![03](https://img.shields.io/badge/03-AI_Memory_Systems-21262d?style=for-the-badge)
+
+Memory-management frameworks for conversational AI, with formal proofs behind the update/decay model.
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+## 03 — FEATURED PROJECTS
+
+<table>
+<tr>
+<td width="26%" valign="top">
 
 #### [KAIRO →](https://kairo-chat.netlify.app/)
-![Status](https://img.shields.io/badge/type-private_messaging-8b949e?style=flat-square&labelColor=21262d)
+![Type](https://img.shields.io/badge/private_messaging-8b949e?style=flat-square&labelColor=21262d)
+
+</td>
+<td valign="top">
 
 Private messaging built around **end-to-end encryption and intentional communication.** Secure device sync, mutual chat-wiping, and zero-retention logs.
 
@@ -69,10 +87,13 @@ Private messaging built around **end-to-end encryption and intentional communica
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top">
+<td width="26%" valign="top">
 
 #### [PortfolioOS →](http://krishportfolio-os.netlify.app/)
-![Status](https://img.shields.io/badge/type-web_desktop_os-8b949e?style=flat-square&labelColor=21262d)
+![Type](https://img.shields.io/badge/web_desktop_os-8b949e?style=flat-square&labelColor=21262d)
+
+</td>
+<td valign="top">
 
 A personal portfolio built **entirely inside a functional web-based desktop OS** — custom window management and terminal emulation.
 
@@ -80,10 +101,15 @@ A personal portfolio built **entirely inside a functional web-based desktop OS**
 ![Terminal](https://img.shields.io/badge/Terminal_Emulation-21262d?style=flat-square)
 
 </td>
-<td width="50%" valign="top">
+</tr>
+<tr>
+<td width="26%" valign="top">
 
 #### ChronoHMG
-![Status](https://img.shields.io/badge/type-research-a371f7?style=flat-square&labelColor=21262d)
+![Type](https://img.shields.io/badge/research-a371f7?style=flat-square&labelColor=21262d)
+
+</td>
+<td valign="top">
 
 University research paper proposing a **memory-management framework for conversational AI** — architecture, write-path design, and formal proofs for the underlying update/decay model.
 
@@ -97,7 +123,7 @@ University research paper proposing a **memory-management framework for conversa
 
 <br/>
 
-## 03 — TECH TOOLBOX
+## 04 — TECH TOOLBOX
 
 | Domain | Stack |
 |:--|:--|
@@ -109,7 +135,7 @@ University research paper proposing a **memory-management framework for conversa
 
 <br/>
 
-## 04 — GITHUB STATS
+## 05 — GITHUB STATS
 
 <div align="center">
 
@@ -117,16 +143,6 @@ University research paper proposing a **memory-management framework for conversa
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imkrish0011&layout=compact&hide_border=false&border_color=30363d&border_radius=10&bg_color=0d1117&title_color=ffffff&text_color=c9d1d9" height="165" alt="Top languages"/>
 
 <img src="https://streak-stats.demolab.com/?user=imkrish0011&background=0d1117&stroke=30363d&border_radius=10&ring=ffffff&fire=ffffff&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=c9d1d9&dates=8b949e" height="165" alt="Streak stats"/>
-
-</div>
-
-<br/>
-
-## 05 — CONTRIBUTION GRAPH
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=imkrish0011&bg_color=0d1117&color=ffffff&line=ffffff&point=ffffff&area=true&area_color=ffffff&hide_border=true&radius=10" width="100%" alt="Contribution graph"/>
 
 </div>
 
@@ -143,7 +159,7 @@ Technical learning, software architecture deep-dives, project progress, and acti
 
 ```yaml
 email:    krish.qcai@gmail.com
-linkedin: linkedin.com/in/krish-sharma-a78a99226
+linkedin: linkedin.com/in/thekrish
 twitter:  "@signin_as_krish"
 ```
 
