@@ -1,136 +1,158 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=160&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0d1117,100:21262d&height=200&section=header&text=KRISH%20SHARMA&fontSize=54&fontColor=ffffff&fontAlignY=36&desc=Builder%20%C2%B7%20Founder%20%C2%B7%20CS%20Student&descSize=16&descAlignY=58&animation=fadeIn" width="100%" alt="Krish Sharma"/>
 
-# KRISH SHARMA
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=2600&pause=900&color=FFFFFF&background=00000000&center=true&vCenter=true&width=640&height=30&lines=Building+at+the+intersection+of...;AI%2FML+%C3%97+Systems+%C3%97+Cloud+Architecture;Secure+%C2%B7+Performant+%C2%B7+Minimal">
+  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=2600&pause=900&color=0D1117&background=00000000&center=true&vCenter=true&width=640&height=30&lines=Building+at+the+intersection+of...;AI%2FML+%C3%97+Systems+%C3%97+Cloud+Architecture;Secure+%C2%B7+Performant+%C2%B7+Minimal">
+  <img alt="typing-svg" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=2600&pause=900&color=FFFFFF&background=00000000&center=true&vCenter=true&width=640&height=30&lines=Building+at+the+intersection+of...;AI%2FML+%C3%97+Systems+%C3%97+Cloud+Architecture;Secure+%C2%B7+Performant+%C2%B7+Minimal">
+</picture>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=2600&pause=900&color=FFFFFF&background=00000000&center=true&vCenter=true&width=600&lines=Building+at+the+intersection+of...;AI%2FML+%C3%97+Systems+%C3%97+Cloud+Architecture...;%C3%97+Minimal+Design." alt="typing-svg" />
+<br/>
 
 <p>
-  <a href="https://linkedin.com/in/krish-sharma-a78a99226/"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://x.com/signin_as_krish"><img src="https://img.shields.io/badge/Twitter/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter"></a>
-  <a href="mailto:krish.qcai@gmail.com"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://linkedin.com/in/krish-sharma-a78a99226/"><img src="https://img.shields.io/badge/LinkedIn-21262d?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://x.com/signin_as_krish"><img src="https://img.shields.io/badge/X-21262d?style=for-the-badge&logo=x&logoColor=white" alt="X"></a>
+  <a href="mailto:krish.qcai@gmail.com"><img src="https://img.shields.io/badge/Email-21262d?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://theopenhypothesis.netlify.app/"><img src="https://img.shields.io/badge/The_Open_Hypothesis-21262d?style=for-the-badge&logo=rss&logoColor=white" alt="Blog"></a>
 </p>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=3&section=header" width="100%"/>
+<br/>
 
-### 01 — ABOUT
+## 01 — ABOUT
 
-I am a Computer Science student building secure, performant, visually minimal software — spanning full-stack product engineering, self-directed ML/AGI study, and low-level systems work.
+Computer Science student building **secure, performant, visually minimal software** — spanning full-stack product engineering, self-directed ML/AGI research, and low-level systems work.
 
-```
-> current_focus     :: cloud-native architecture simulation, OS internals, AI memory systems
-> design_philosophy :: dark mode default / glassmorphism / clutter-free
-> pulse             :: deep tech, applied AI research, systems programming
-> execution         :: build only what is genuinely worth making
-```
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=3&section=header" width="100%"/>
-
-### 02 — TECH TOOLBOX
-
-**Languages**
-
-![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=white)
-![C++](https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=cplusplus&logoColor=white)
-![C](https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=white)
-
-**Frontend**
-
-![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-000000?style=for-the-badge&logo=tailwindcss&logoColor=white)
-
-**Backend & Cloud**
-
-![Node.js](https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-000000?style=for-the-badge&logo=firebase&logoColor=white)
-
-**AI & Data**
-
-```
-[■] AI/ML System Integration
-[■] Applied ML — self-directed, first-principles roadmap
-[■] Distributed Systems Engineering
+```ts
+const krish = {
+  role:    "Builder · Founder · CS Student",
+  focus:   ["Cloud-native architecture simulation", "OS internals", "AI memory systems"],
+  design:  ["dark mode default", "glassmorphism", "clutter-free"],
+  pulse:   ["deep tech", "applied AI research", "systems programming"],
+  mantra:  "Build only what is genuinely worth making.",
+} as const;
 ```
 
-**Tools & Workflow**
+<br/>
 
-![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white)
+## 02 — FEATURED PROJECTS
 
-```
-[■] Claude Code
-[■] System Architecture Design
-```
+<table>
+<tr>
+<td width="50%" valign="top">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=3&section=header" width="100%"/>
+#### [ArchViz Studio →](https://archviz-studio.vercel.app/)
+![Status](https://img.shields.io/badge/status-live_open_beta-3fb950?style=flat-square&labelColor=21262d)
 
-### 03 — GITHUB STATS
+Full-stack cloud architecture design and simulation platform — **one canvas replacing the usual scatter of separate DevOps tools.** AI Agent Canvas for drag-and-drop system design, with Terraform export.
+
+![React](https://img.shields.io/badge/React-21262d?style=flat-square&logo=react&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-21262d?style=flat-square&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-21262d?style=flat-square&logo=nodedotjs&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-21262d?style=flat-square&logo=firebase&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-21262d?style=flat-square&logo=tailwindcss&logoColor=white)
+
+</td>
+<td width="50%" valign="top">
+
+#### [KAIRO →](https://kairo-chat.netlify.app/)
+![Status](https://img.shields.io/badge/type-private_messaging-8b949e?style=flat-square&labelColor=21262d)
+
+Private messaging built around **end-to-end encryption and intentional communication.** Secure device sync, mutual chat-wiping, and zero-retention logs.
+
+![E2EE](https://img.shields.io/badge/E2E_Encryption-21262d?style=flat-square)
+![Device Sync](https://img.shields.io/badge/Device_Sync-21262d?style=flat-square)
+![Zero Retention](https://img.shields.io/badge/Zero_Retention-21262d?style=flat-square)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+#### [PortfolioOS →](http://krishportfolio-os.netlify.app/)
+![Status](https://img.shields.io/badge/type-web_desktop_os-8b949e?style=flat-square&labelColor=21262d)
+
+A personal portfolio built **entirely inside a functional web-based desktop OS** — custom window management and terminal emulation.
+
+![Window Manager](https://img.shields.io/badge/Window_Manager-21262d?style=flat-square)
+![Terminal](https://img.shields.io/badge/Terminal_Emulation-21262d?style=flat-square)
+
+</td>
+<td width="50%" valign="top">
+
+#### ChronoHMG
+![Status](https://img.shields.io/badge/type-research-a371f7?style=flat-square&labelColor=21262d)
+
+University research paper proposing a **memory-management framework for conversational AI** — architecture, write-path design, and formal proofs for the underlying update/decay model.
+
+![Conversational AI](https://img.shields.io/badge/Conversational_AI-21262d?style=flat-square)
+![Formal Proofs](https://img.shields.io/badge/Formal_Proofs-21262d?style=flat-square)
+![Memory Systems](https://img.shields.io/badge/Memory_Systems-21262d?style=flat-square)
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+## 03 — TECH TOOLBOX
+
+| Domain | Stack |
+|:--|:--|
+| **Languages** | ![Python](https://img.shields.io/badge/Python-21262d?style=flat-square&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-21262d?style=flat-square&logo=javascript&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-21262d?style=flat-square&logo=typescript&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-21262d?style=flat-square&logo=cplusplus&logoColor=white) ![C](https://img.shields.io/badge/C-21262d?style=flat-square&logo=c&logoColor=white) |
+| **Frontend** | ![React](https://img.shields.io/badge/React-21262d?style=flat-square&logo=react&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-21262d?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-21262d?style=flat-square&logo=css3&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-21262d?style=flat-square&logo=tailwindcss&logoColor=white) |
+| **Backend & Cloud** | ![Node.js](https://img.shields.io/badge/Node.js-21262d?style=flat-square&logo=nodedotjs&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-21262d?style=flat-square&logo=firebase&logoColor=white) |
+| **AI & Systems** | ![AI/ML Integration](https://img.shields.io/badge/AI%2FML_System_Integration-21262d?style=flat-square) ![Applied ML](https://img.shields.io/badge/Applied_ML-21262d?style=flat-square) ![Distributed Systems](https://img.shields.io/badge/Distributed_Systems-21262d?style=flat-square) ![Architecture](https://img.shields.io/badge/System_Architecture_Design-21262d?style=flat-square) |
+| **Tools** | ![Git](https://img.shields.io/badge/Git-21262d?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-21262d?style=flat-square&logo=github&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-21262d?style=flat-square&logo=linux&logoColor=white) ![Claude Code](https://img.shields.io/badge/Claude_Code-21262d?style=flat-square&logo=claude&logoColor=white) |
+
+<br/>
+
+## 04 — GITHUB STATS
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=imkrish0011&show_icons=true&theme=dark&hide_border=true&bg_color=00000000&title_color=FFFFFF&icon_color=FFFFFF&text_color=CCCCCC" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=imkrish0011&theme=dark&hide_border=true&background=00000000&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=imkrish0011&show_icons=true&hide_border=false&border_color=30363d&border_radius=10&bg_color=0d1117&title_color=ffffff&icon_color=ffffff&text_color=c9d1d9&include_all_commits=true" height="165" alt="GitHub stats"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imkrish0011&layout=compact&hide_border=false&border_color=30363d&border_radius=10&bg_color=0d1117&title_color=ffffff&text_color=c9d1d9" height="165" alt="Top languages"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imkrish0011&layout=compact&theme=dark&hide_border=true&bg_color=00000000&title_color=FFFFFF&text_color=CCCCCC" height="165"/>
+<img src="https://streak-stats.demolab.com/?user=imkrish0011&background=0d1117&stroke=30363d&border_radius=10&ring=ffffff&fire=ffffff&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=c9d1d9&dates=8b949e" height="165" alt="Streak stats"/>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=3&section=header" width="100%"/>
+<br/>
 
-### 04 — CONTRIBUTION GRAPH
+## 05 — CONTRIBUTION GRAPH
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=imkrish0011&theme=react-dark&hide_border=true&bg_color=00000000&color=FFFFFF&line=FFFFFF&point=FFFFFF" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=imkrish0011&bg_color=0d1117&color=ffffff&line=ffffff&point=ffffff&area=true&area_color=ffffff&hide_border=true&radius=10" width="100%" alt="Contribution graph"/>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=3&section=header" width="100%"/>
+<br/>
 
-### 05 — DIGITAL GARDEN & BLOG
+## 06 — DIGITAL GARDEN
 
 **[The Open Hypothesis →](https://theopenhypothesis.netlify.app/)**
+Technical learning, software architecture deep-dives, project progress, and active research notes.
 
-Personal space on the web documenting technical learning, software architecture deep-dives, project progress, and active research notes.
+<br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=3&section=header" width="100%"/>
+## 07 — LET'S CONNECT
 
-### 06 — FEATURED PROJECTS
-
-**[ArchViz Studio →](https://archviz-studio.vercel.app/)**
-Full-stack cloud architecture design and simulation platform — a single canvas replacing the usual scatter of separate DevOps tools. Built with React, TypeScript, Node.js, Firebase, and Tailwind, with an AI Agent Canvas for drag-and-drop system design and Terraform export. Live in open beta.
-
-**[KAIRO →](https://kairo-chat.netlify.netlify.app/)**
-A private messaging platform emphasizing end-to-end encryption and intentional communication. Secure device sync, mutual chat-wiping, zero-retention logs.
-
-**[PortfolioOS →](http://krishportfolio-os.netlify.app/)**
-A personal portfolio built entirely inside a functional web-based desktop OS interface — custom window management, terminal emulation.
-
-**ChronoHMG** `RESEARCH`
-University research paper proposing a memory-management framework for conversational AI — architecture, write-path design, and formal proofs for the underlying update/decay model.
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=3&section=header" width="100%"/>
-
-### 07 — LET'S CONNECT
-
-> "The best way to predict the future is to build it."
-
-```
-email     :: krish.qcai@gmail.com
-linkedin  :: linkedin.com/in/thekrish
-twitter/x :: @signin_as_krish
+```yaml
+email:    krish.qcai@gmail.com
+linkedin: linkedin.com/in/krish-sharma-a78a99226
+twitter:  "@signin_as_krish"
 ```
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=120&section=footer" width="100%"/>
+<br/>
+
+*Build only what is genuinely worth making.*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0d1117,100:21262d&height=120&section=footer" width="100%" alt=""/>
 
 </div>
