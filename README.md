@@ -166,7 +166,7 @@ University research paper proposing a **memory-management framework for conversa
 
 ## 06 — DIGITAL GARDEN
 
-**[The Open Hypothesis →](https://theopenhypothesis.netlify.app/)**
+**[The Open Hypothesis →](https://theopenhypothesis.vercel.app/)**
 Technical learning, software architecture deep-dives, project progress, and active research notes.
 
 <br/>
