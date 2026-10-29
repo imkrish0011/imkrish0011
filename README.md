@@ -14,7 +14,7 @@
   <a href="https://linkedin.com/in/thekrish"><img src="https://img.shields.io/badge/LinkedIn-21262d?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://x.com/signin_as_krish"><img src="https://img.shields.io/badge/X-21262d?style=for-the-badge&logo=x&logoColor=white" alt="X"></a>
   <a href="mailto:krish.qcai@gmail.com"><img src="https://img.shields.io/badge/Email-21262d?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="https://theopenhypothesis.netlify.app/"><img src="https://img.shields.io/badge/The_Open_Hypothesis-21262d?style=for-the-badge&logo=rss&logoColor=white" alt="Blog"></a>
+  <a href="https://theopenhypothesis.vercel.app/"><img src="https://img.shields.io/badge/The_Open_Hypothesis-21262d?style=for-the-badge&logo=rss&logoColor=white" alt="Blog"></a>
 </p>
 
 </div>
